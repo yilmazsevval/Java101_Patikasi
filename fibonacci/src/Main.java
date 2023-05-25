@@ -8,7 +8,7 @@ public class Main {
         int a = 0; // İlk Fibonacci sayısı
         int b = 1; // İkinci Fibonacci sayısı girin
 
-        System.out.print("Fibonacci Dizisi :");
+        System.out.print("Fibonacci Dizisi : ");
         System.out.print(a);
 
         for (int i = 2; i <= number; i++) {
